@@ -37,4 +37,4 @@ Pedro|2.2|16/09/1994
 
 
 
-![imagen](magen/machine_leaning.jpeg"ejemplo de imagen")
+![imagen](imagen/machine_leaning.jpeg"ejemplo de imagen")
